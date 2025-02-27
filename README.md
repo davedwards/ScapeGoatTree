@@ -98,3 +98,5 @@ int main() {
 ### Summary
 The Scapegoat Tree is a self-balancing binary search tree that maintains balance through the use of a rebuilding strategy based on a balance factor. This implementation allows for efficient insertions, deletions, and searches while ensuring that the tree remains balanced, thus maintaining an average time complexity of O(log n) for these operations.
 
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
