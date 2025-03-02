@@ -178,7 +178,7 @@ public:
         std::cout << std::endl;
     }
 
-private:
+public:
     void inOrder(Node* node) {
         if (!node) return;
         inOrder(node->left);
